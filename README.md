@@ -29,7 +29,7 @@ As of 2013, the INE has access to data from the Forensic Anatomy Institute of Ma
 
 ### *Data of unemployment in Spain*
 In the same way, the SEPE does not collect data for the entire period to be analyzed in the same site or in the same format. This time we are going to group the data in four periods:
-- [Registered unemployment per month from 1996 to 2005 (April)] (https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/empleo.html).
+- [Registered unemployment per month from 1996 to 2005 (April)] (http://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/empleo.html).
 - Registered unemployment per month from 2005 (May) to 2007 (included).
 - Registered unemployment per month from 2008 to 2012 (included).
 - Registered unemployment per month from 2013 to 2017 (included).
@@ -40,7 +40,7 @@ During the realization of this project SEPE has changed its website. Now you can
 Since 2005, SEPE use another methodology for data registration (SISPE), so the data from 1996 to mid-2005 are estimates of what the 
 values would have been if they had applied this methodology.
 
-All data has been downloaded, grouped and saved in the ![Data](https://github.com/tonilopezrosell/understandingsuicide/tree/master/Data) folder of this repository.
+All data has been downloaded, grouped and saved in the [Data](https://github.com/tonilopezrosell/understandingsuicide/tree/master/Data) folder of this repository.
 
 To execute the code it is necessary to download the [understandingsuicide Github repository] (https://github.com/tonilopezrosell/understandingsuicide). This contains all the necessary directory structure and data files. 
 
