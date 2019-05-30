@@ -14,23 +14,22 @@ This project has two main questions to solve:
 To try to answer these questions, the following data sources will be used:
 
 - Monthly data of the number of suicides in Spain from 1998 to 2017 (included). The is the 
-Statistics National Institute of Spain (INE) -> https://www.ine.es (open data source)
+Statistics National Institute of Spain, [INE](https://www.ine.es) (open data source)
 - Monthly data of the number of unemployed in Spain from 1998 to 2017 (included). The source is the
-Public Service of State Employment in Spain (SEPE) -> https://www.sepe.es (open data source)
+Public Service of State Employment in Spain, [SEPE](https://www.sepe.es) (open data source)
 
 ## DATA DESCRIPTION
 
 ### *Data of suicide in Spain*
 The INE does not collect all the data for this period in the same place or in the same format. For this reason we have been forced to group the data in two periods:
 - [Number of suicides per month from 1998 to 2004 (included)](https://www.ine.es/jaxi/Tabla.htm?path=/t18/p427/a1998/l0/&file=03013.px) (Spanish).
-[This example works](C:\Windows\explorer.exe)
 - [Number of suicides per month from 2005 to 2017 (included)](https://www.ine.es/jaxi/Tabla.htm?path=/t15/p417/a2005/l0/&file=05006.px&L=0) (Spanish).
 
 As of 2013, the INE has access to data from the Forensic Anatomy Institute of Madrid and introduces a methodological improvement that has allowed them to more accurately assign the cause of death in deaths with judicial intervention (deaths that were assigned to ill-defined causes they have been reassigned to specific external causes).
 
 ### *Data of unemployment in Spain*
 In the same way, the SEPE does not collect data for the entire period to be analyzed in the same site or in the same format. This time we are going to group the data in four periods:
-- [Registered unemployment per month from 1996 to 2005 (April)] (http://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/empleo.html).
+- [Registered unemployment per month from 1996 to 2005 (April)](http://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/empleo.html).
 - Registered unemployment per month from 2005 (May) to 2007 (included).
 - Registered unemployment per month from 2008 to 2012 (included).
 - Registered unemployment per month from 2013 to 2017 (included).
@@ -43,7 +42,7 @@ values would have been if they had applied this methodology.
 
 All data has been downloaded, grouped and saved in the [Data](https://github.com/tonilopezrosell/understandingsuicide/tree/master/Data) folder of this repository.
 
-To execute the code it is necessary to download the [understandingsuicide Github repository] (https://github.com/tonilopezrosell/understandingsuicide). This contains all the necessary directory structure and data files. 
+To execute the code it is necessary to download the [understandingsuicide Github repository](https://github.com/tonilopezrosell/understandingsuicide). This contains all the necessary directory structure and data files. 
 
 
 ## CODE DESCRIPTION
