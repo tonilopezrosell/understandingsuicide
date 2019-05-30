@@ -22,8 +22,9 @@ Public Service of State Employment in Spain (SEPE) -> https://www.sepe.es (open 
 
 ### *Data of suicide in Spain*
 The INE does not collect all the data for this period in the same place or in the same format. For this reason we have been forced to group the data in two periods:
-- [Number of suicides per month from 1998 to 2004 (included)] (http://www.ine.es/jaxi/Tabla.htm?path=/t18/p427/a1998/l0/&file=03013.px) (Spanish).
-- [Number of suicides per month from 2005 to 2017 (included)] (https://www.ine.es/jaxi/Tabla.htm?path=/t15/p417/a2005/l0/&file=05006.px&L=0) (Spanish).
+- [Number of suicides per month from 1998 to 2004 (included)](https://www.ine.es/jaxi/Tabla.htm?path=/t18/p427/a1998/l0/&file=03013.px) (Spanish).
+[This example works](C:\Windows\explorer.exe)
+- [Number of suicides per month from 2005 to 2017 (included)](https://www.ine.es/jaxi/Tabla.htm?path=/t15/p417/a2005/l0/&file=05006.px&L=0) (Spanish).
 
 As of 2013, the INE has access to data from the Forensic Anatomy Institute of Madrid and introduces a methodological improvement that has allowed them to more accurately assign the cause of death in deaths with judicial intervention (deaths that were assigned to ill-defined causes they have been reassigned to specific external causes).
 
