@@ -53,25 +53,25 @@ To execute the code it will be necessary to have installed in the system Python 
 
 *You have to execute the scripts in the following order*
 ### *Suicide_Time_Series_Reading_and_Cleansing_Data.ipynb (IPython)*
-We load, clean, select and shape all the groups of files that we have collected about the number of suicides per month in Spain from 1998 to 2017 by the INE.
+In this notebook we load, clean, select and shape all the groups of files that we have collected about the number of suicides per month in Spain from 1998 to 2017 by the INE.
 
 The final result is a csv with a time series with the total number of suicides per month in Spain from 1998 to 2017 (included). That csv will be saved in the 'Data' folder as 'Monthly_suicide_Spain_1998-2017.csv'
 
-The needed libraries are: numpy, pandas and os.
+- The needed libraries are: numpy, pandas and os.
 
 ### *Unemployment_Time_Series_Reading_and_Cleansing_Data.ipynb (IPython)*
 
-We load, clean, select and shape all the groups of files that we have collected about the number of unemployed per month in Spain from 1998 to 2017 by the SEPE.
+In this notebook we load, clean, select and shape all the groups of files that we have collected about the number of unemployed per month in Spain from 1998 to 2017 by the SEPE.
 
 The final result is a csv with a time series with the total number of unemployed per month in Spain from 1998 to 2017 (included). That csv will be saved in the 'Data' folder as 'Monthly_unemployment_Spain_1998-2017.csv'.
 
-The needed libraries are: numpy, pandas and os.
+- The needed libraries are: numpy, pandas and os.
 
 ### *Time_Series_Analysis_Forecasting_and_Cross_Correlation_Suicide_and_Unemployment_in_Spain.ipynb (IRkernel)*
 
-We analyze the time series of suicide and unemployment in Spain from 1998 to 2017, make some forecasts and study the relationship that may exist between both series.
+In this notebook we analyze the time series of suicide and unemployment in Spain from 1998 to 2017, make some forecasts and study the relationship that may exist between both series.
 
-The needed libraries and packages are: stringr, lubridate, ggplot2, ggfortify, forecast and TTR.
+-The needed libraries and packages are: stringr, lubridate, ggplot2, ggfortify, forecast and TTR.
 
 
 ## REPORT AND GRAPHS
