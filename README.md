@@ -75,3 +75,27 @@ The needed libraries and packages are: stringr, lubridate, ggplot2, ggfortify, f
 
 
 ## REPORT AND GRAPHS
+
+In the folder 'Report_and_graphs' you can find the report in pdf where I explain the summary, background, methodology followed, the main results and the conclusions of the study. 
+
+You also have the graphics of the report in its version to be edited, they're Tableau files. If you want to see, play or edit Tableau's graphics or dashboards you have to [connect your Tableau to R as an external server](https://community.tableau.com/thread/236068), since there are graphics that are made using R scripts.
+
+
+## BIBLIOGRAPHY
+
+If you want to consult the sources that I have used to carry out this project, they are the following:
+
+https://www.analyticsvidhya.com
+https://machinelearningmastery
+https://towardsdatascience.com
+https://www.digitalocean.com
+https://www.quantstart.com
+https://otexts.com/fpp3
+https://homepage.univie.ac.at/robert.kunst/proguni.pdf
+https://robjhyndman.com
+https://stats.stackexchange.com
+https://stackoverflow.com
+http://www.psicothema.com/psicothema.asp?id=894
+https://www.uv.es/gicf/4A3_Ramos_GICF_13.pdf
+http://theecologist.net/el-suicidio-en-espana/
+https://dlegorreta.wordpress.com
