@@ -71,7 +71,7 @@ The final result is a csv with a time series with the total number of unemployed
 
 In this notebook we analyze the time series of suicide and unemployment in Spain from 1998 to 2017, make some forecasts and study the relationship that may exist between both series.
 
--The needed libraries and packages are: stringr, lubridate, ggplot2, ggfortify, forecast and TTR.
+- The needed libraries and packages are: stringr, lubridate, ggplot2, ggfortify, forecast and TTR.
 
 
 ## REPORT AND GRAPHS
