@@ -1,7 +1,7 @@
 # Bivariate Analysis and Forecasting of Suicide and Unemployment in Spain (1998 - 2017)
 
 First approach to suicide in Spain. Time series analysis, forecasting and cross correlation. 
-May, 2019
+
 
 ## OBJECTIVES
 
